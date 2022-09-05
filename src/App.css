@@ -1,0 +1,125 @@
+.nametext{
+color: white;
+margin-left: 15vw;
+margin-top: 20vw;
+font-size: 2vw;
+font-family:'Courier New', Courier, monospace ;
+}
+.hey{
+  color: 	#FF3131;
+}
+.myname{
+  color: white;
+  margin-left: 15vw;
+  font-size: 5vw;
+  font-family:'Courier New', Courier, monospace ;
+  }
+  .intro{
+    color: white;
+    margin-left: 15vw;
+    font-size: 1vw;
+    font-family:'Courier New', Courier, monospace ;
+    text-align: justify;
+    text-justify: inter-word;
+    }
+    .contact{
+      color: white;
+      margin-left: 15vw;
+      margin-top: 1vw;
+      font-size: 2vw;
+      font-family:'Courier New', Courier, monospace ;
+      text-align: justify;
+      text-justify: inter-word;
+      }
+  .journey{
+  color: white;
+  margin-left: 15vw;
+  font-size: 3vw;
+  margin-top: 13vw;
+  font-family:'Courier New', Courier, monospace ;
+   }
+  .heading{
+    color: white;
+    margin-top: 15vw;
+    margin-left: 10vw;
+    font-size: 3vw;
+    font-family:'Courier New', Courier, monospace ;
+    }
+.picture{
+  width:40vw;
+  height:25vw;
+  margin-top: -20vw;
+  margin-left: 48vw;
+}
+.journeypic{
+  width:65vw;
+  height:15vw;
+  margin-top: 5vw;
+  margin-left: 19vw;
+}
+.text-center{
+  text-align: center;
+  color: white;
+}
+ 
+.root-div{
+ margin-top: 10vw;
+ color: white;
+}
+.link{
+  text-decoration: none;
+  color: white;
+}
+.cards{
+  margin-left: 25vw;
+  margin-top:-17.7vw;
+  text-decoration: none;
+  color: white;
+}
+.cardsw{
+  margin-left: 25vw;
+  margin-top:-18.5vw;
+  text-decoration: none;
+  color: white;
+}
+.card2{
+  margin-left: 50vw;
+  margin-top:-17.7vw;
+  text-decoration: none;
+  color: white;
+}
+.cardadjust1
+{
+  margin-left: 15vw;
+  margin-top: 5vw;
+  text-decoration: none;
+  color: white;
+}
+.cardadjust2
+{
+  margin-left: 15vw;
+  margin-top: 3vw;
+  text-decoration: none;
+  color: white;
+}
+.cardadjust3
+{
+  margin-left: 15vw;
+  margin-top: 3vw;
+  text-decoration: none;
+  color: white;
+}
+.img1{
+  height:2.5vw;
+  width: 2.5vw;
+}
+.img2{
+  height:2.5vw;
+  width: 2.5vw;
+  margin-left: 1vw;
+}
+.socialmedia
+{
+  margin-top: 1vw;
+  margin-left: 15vw;
+}
