@@ -27,6 +27,7 @@ import insta from'./assets/insta.png';
 import git from'./assets/git.png';
 import linkedin from'./assets/linkedin.png';
 import resume from './assets/resume.png';
+import reuben from'./assets/reuben.jpeg';
 
 function App(){
   const [value, setValue] = useState(0);
@@ -388,6 +389,7 @@ Second Row of cards */}
     <div className='journey'>
     <span className="hey">Contact</span> Me
     </div>
+    <img src={reuben} className="myimg"/>
     <div className='contact'>
       Hey! Hope you liked my work<br></br>
       Want to collaborate and work together ?<br></br>
