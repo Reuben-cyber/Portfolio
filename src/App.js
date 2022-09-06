@@ -55,14 +55,14 @@ function App(){
       technologies like wordpress,HTML,PHP,NodeJS,MySql.
       </div>
         <img src={myimg} className="picture"/>
-  
+{/*   
+  //Timeline */}
       <div className='journey'>
       My <span className="hey">Journey</span> So Far
       </div>
-      {/* <img src={journey} className="journeypic"/> */}
       <div className="root-div">
-      <div style={{ width: "50%",
-                    height: "90px", 
+      <div style={{ width: "50vw",
+                    height: "10vw", 
                     margin: "0 auto"
                      }}>
         <HorizontalTimeline
@@ -87,7 +87,7 @@ function App(){
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={event}
           alt="Astitva Event"
         />
@@ -109,7 +109,7 @@ function App(){
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={disha}
           alt="Coloring Studio"
         />
@@ -132,7 +132,7 @@ function App(){
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={juniberry}
           alt="Juniberry Soaps"
         />
@@ -158,7 +158,7 @@ Second Row of cards */}
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={doc}
           alt="Event Doc"
         />
@@ -180,7 +180,7 @@ Second Row of cards */}
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={jewel}
           alt="Artsy Jewellery"
         />
@@ -203,7 +203,7 @@ Second Row of cards */}
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={newb}
           alt="Newbie.com"
         />
@@ -229,7 +229,7 @@ Second Row of cards */}
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={scan}
           alt="Pocket Scanner"
         />
@@ -251,7 +251,7 @@ Second Row of cards */}
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={count}
           alt="Simple Counter"
         />
@@ -273,7 +273,7 @@ Second Row of cards */}
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={dust}
           alt="Smart Dustbin"
         />
@@ -301,7 +301,7 @@ Second Row of cards */}
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={stats}
           alt="Statsfield Software Consultancy"
         />
@@ -322,7 +322,7 @@ Second Row of cards */}
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={movinture}
           alt="Movinture Pvt.LTD."
         />
@@ -348,7 +348,7 @@ Second Row of cards */}
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={designing}
           alt="Responsive Web Development"
         />
@@ -369,7 +369,7 @@ Second Row of cards */}
       <CardActionArea>
         <CardMedia
           component="img"
-          height="140"
+          height="139 vw"
           image={iot}
           alt="IoT"
         />
@@ -400,6 +400,11 @@ Second Row of cards */}
         <a href="https://github.com/Reuben-cyber" title="Github Profile"><img src={git} className="img2"/></a>
         <a href="https://www.linkedin.com/in/reuben-kurian/" title="LinkedIn Profile"><img src={linkedin} className="img2"/></a>
         <a href="https://drive.google.com/file/d/1YUsJ1EcXp4R8T_pAHBgpP4ZUzoDM9sV9/view?usp=sharing" title="Get Resume Here"><img src={resume} className="img2"/></a>
+      </div>
+
+      <div className='creds'>
+      Built from scratch on ReactJS.  
+      By, Your's Truely.
       </div>
       </>
   );

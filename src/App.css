@@ -112,11 +112,13 @@ font-family:'Courier New', Courier, monospace ;
 .img1{
   height:2.5vw;
   width: 2.5vw;
+  margin-bottom: 2vw;
 }
 .img2{
   height:2.5vw;
   width: 2.5vw;
   margin-left: 1vw;
+  margin-bottom: 2vw;
 }
 .socialmedia
 {
@@ -126,5 +128,13 @@ font-family:'Courier New', Courier, monospace ;
 .myimg{
   height:12vw;
   width:11vw;
-  margin-left:75vw;
+  margin-left:70vw;
+}
+.creds
+{
+  color: white;
+  font-size: 1vw;
+  margin-left: 15vw;
+  margin-top: 2vw;
+  font-family:'Open Sans', Courier, monospace ;
 }
